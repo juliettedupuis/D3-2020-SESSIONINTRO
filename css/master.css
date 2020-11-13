@@ -1,37 +1,42 @@
+nav {
+  width: 100%;
 
 
 
+  background-color: #313131;
+  opacity:7;
+  padding-top: 10px;
+}
+nav ul {
+  display: flex;
+  justify-content: space-around;
 
-section {
- min-height: 60vh;
+padding-top: 0em;
+margin: 2em;
 
- padding: 2em;
-/* Styls pour scetion01: Image */
+}
+nav a {
+  display: block;
+  color:white;
+
+
+
 
 }
 
-blockquote {
-  margin-left: 3em
 
 
 
-  }
 
-#section-01{
-background: url('images/img1.jpg')
-top center no-repeat;
-background-size: cover;
-background-attachment: fixed;
-display: flex;
-justify-content: center;
-align-items: center;
-}
 
-#section-02 h2 {
-text-align: center;
-margin-left: 60px;
-margin-right: 60px;
-}
+
+
+body {background-color: #313131;
+color:white;}
+.fable {  background: url('images/img.jpg') no-repeat top center ;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100vh;
 
 
 #section-03 p {
@@ -40,9 +45,84 @@ margin-right: 60px;
  margin:auto;
  }
 
- figcaption { width:150px;
-  padding:1px;
+ figcaption { width:400px;
+  padding:100px;
   margin:auto;
   }
+
+}
+#source {color:white;
+text-align: center;
+background-color:#8846db;
+opacity: 0.70;
+margin-top: 7em;
+padding: 10px}
+#ww {color:white;}
+h1 {
+padding: 2em;
+padding-top: 1.5em;
+font-size: 8.5em;
+text-align: center;
+justify-content:left;
+color: #8846db;
+}
+
+
+h2 { text-align: center;
+opacity: 0.70;
+color: #8846db;
+ font-size: 4em;
+margin-top:100px;
+margin-left: 60px;
+margin-right: 110px;
+padding-bottom: 100px;
+border-bottom: 2px
+}
+
+  p {
+ justify-content:left;
+margin-left: 500px;
+margin-right: 500px;
+margin-top:40px}
+h3 { text-align: center;
+margin-top:10px;
+margin-left: 500px;
+margin-right: 500px;
+
+}
+
+h4 {
+  text-align:center;
+   justify-content:left;
+  opacity:0.70;
+  margin-left: 100px;
+  border-left: 2px solid #8846db;
+  border-right: 2px solid #8846db;
+  margin-left: 350px;
+  margin-right: 350px;
+margin-top:80px;}
+
+h5 { text-align: center;
+margin-top:150px;
+margin-left: 400px;
+margin-right: 400px;
+
+}
+
+#section-03 { background: url('images/zblep3 copie.png')
+no-repeat top center ;
+justify-content: center; width:100%;}
+
+
+footer {
+
+ padding:80px;
+ margin:auto;
+ justify-content: center;
+ margin-top: 5px;
+ margin-left: 20px;
+ margin-right: 10px;
+
+ }
 
 /* STYLES SECTION 3 */

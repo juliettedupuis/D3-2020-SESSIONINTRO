@@ -1,18 +1,35 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Semi+Condensed:wght@300&family=Bebas+Neue&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rye&family=Sancreek&family=Six+Caps&family=Vast+Shadow&display=swap');
 
-body{ font-family: 'Saira Condensed', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Old+Standard+TT:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Squada+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Nothing+You+Could+Do&display=swap');
+@import url('https://fonts.googleapis.com/css2? family = Pathway + Gothic + One & display = swap');
+@import url('https://fonts.googleapis.com/css2? family = Montserrat: wght @ 200 & display = swap');
+@import url('https://fonts.googleapis.com/css2? family = Quattrocento + Sans & display = swap');
+
+p{ font-family: 'Quattrocento Sans', sans-serif;
+font-size: 15px;
 }
 
-h1{
-  font-family: 'Anton', sans-serif;
-  margin-bottom: 1em;
-  font-size: 6em;
+h1 {font-family: 'Anton',sans-serif;}
+h2 {font-family: 'Monoton', cursive;
 }
 
-h2{ font-family: 'Bebas Neue', cursive;
-margin-top: 0.5em;
-margin-bottom:0.5em;
-font-size: 4em;
-
+h3 {font-family: 'Montserrat', sans-serif;
+font-size: 25px;
+color: #7e6fa9
 }
+ h4 {font-family:  'Montserrat', sans-serif;
+font-size: 15px;
+color: #ffffff;}
+h5{font-family: 'Montserrat', sans-serif;
+font-size: 25px;
+color: #7e6fa9
+}
+nav {font-family: 'Montserrat', sans-serif;}
